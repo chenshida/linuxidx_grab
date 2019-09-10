@@ -1,5 +1,12 @@
 ## Linuxidc_grab
 爬取linux公社书库提供的文档资料到本地
+
+运行
+
+
+```
+python3 main.py
+```
 ## environment
 - Ubuntu16.04
 - python3.5.2
